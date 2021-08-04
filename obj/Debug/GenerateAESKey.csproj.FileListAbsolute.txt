@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\GenerateAESKey\bin\Debug\GenerateAESKey.exe.config
+C:\Users\DELL\source\repos\GenerateAESKey\bin\Debug\GenerateAESKey.exe
+C:\Users\DELL\source\repos\GenerateAESKey\bin\Debug\GenerateAESKey.pdb
+C:\Users\DELL\source\repos\GenerateAESKey\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\DELL\source\repos\GenerateAESKey\bin\Debug\Pkcs11Interop.dll
+C:\Users\DELL\source\repos\GenerateAESKey\bin\Debug\Pkcs11Interop.xml
+C:\Users\DELL\source\repos\GenerateAESKey\obj\Debug\GenerateAESKey.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\GenerateAESKey\obj\Debug\GenerateAESKey.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\GenerateAESKey\obj\Debug\GenerateAESKey.csproj.CopyComplete
+C:\Users\DELL\source\repos\GenerateAESKey\obj\Debug\GenerateAESKey.exe
+C:\Users\DELL\source\repos\GenerateAESKey\obj\Debug\GenerateAESKey.pdb
