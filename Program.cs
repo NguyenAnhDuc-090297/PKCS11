@@ -20,10 +20,10 @@ namespace GenerateAESKey
         //private static string _libraryPath = @"C:\Program Files\SafeNet\LunaClient\cryptoki.dll";
         private static readonly ulong _slotId = 0L;
         //private static ulong _slotId = 1L;
-        private static readonly string _userPin = "123456";
-        //private static string _userPin = "Vietinbank@1234";
+        private static readonly string _userPin = "";
+        //private static string _userPin = "";
 
-        private static readonly string RSAKeyLabel = "abc";
+        private static readonly string RSAKeyLabel = "";
 
         //private static string AESKeyLabel = "SecretKey01";
         private static readonly string AESKeyLabel = "SecretKey01";
